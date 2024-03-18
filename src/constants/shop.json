@@ -1,0 +1,65 @@
+{
+    "banners": {
+        
+        "default": {
+            "URL": "https://i.imgur.com/NRrPAqI.png",
+            "value": "0"
+        },
+        "mushroom": {
+            "URL": "https://i.imgur.com/m52WAto.png",
+            "value": "1700"
+        },
+        "coffee_shop": {
+            "URL": "https://i.imgur.com/xJ51gnB.png",
+            "value": "1700"
+        },
+        "space": {
+            "URL": "https://i.imgur.com/ELpGcHu.png",
+            "value": "3000"
+        }, 
+        "sun": {
+            "URL": "https://i.imgur.com/ZBKsCFU.png",
+            "value": "4000"
+        }, 
+        
+        "bee": {
+            "URL": "https://i.imgur.com/ZPn5IOG.png",
+            "value": "4000"
+        }, 
+        
+        "niko": {
+            "URL": "https://i.imgur.com/NDp8jC1.png",
+            "value": "3500"
+        }, 
+        
+        "niko_on": {
+            "URL": "https://i.imgur.com/vgcqMFg.png",
+            "value": "5500"
+        }, 
+        
+        "hollow": {
+            "URL": "https://i.imgur.com/DGvJLkg.png",
+            "value": "2500"
+        }, 
+        
+        "hollowk": {
+            "URL": "https://i.imgur.com/XMXKmaE.png",
+            "value": "5500"
+        }, 
+        
+        "hollow_gz": {
+            "URL": "https://i.imgur.com/wxTOgIi.png",
+            "value": "7000"
+        }, 
+        
+        "undertale": {
+            "URL": "https://i.imgur.com/haQGhxw.png",
+            "value": "7500"
+        }, 
+        
+        "undertale_chara": {
+            "URL": "https://i.imgur.com/SDpVZQ6.png",
+            "value": "10000"
+        }
+    }
+}

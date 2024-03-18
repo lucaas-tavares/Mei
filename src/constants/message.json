@@ -1,0 +1,21 @@
+{
+    "DB": {
+        "AUTHOR": "> - {db}**︰<name>**, ih rapaz, aparentemente você não é um dos meus, mude isso utilizando o comando **``<command>``**.",
+        
+        "USER": "> - {db}**︰<name>**, esse viajante não é um dos nossos, infelizmente terei que parar por aqui."
+    },
+
+    "BL": {
+        "AUTHOR": "{e:erro} <name>, você está na minha **black list**!\n> - **Motivo:** <motivo>\n> - **Data do Banimento:** <data>",
+    
+        "USER": "{e:erro} O viajante **<name>** está na minha **black list**!\n> - **Motivo:** <motivo>\n> - **Data do Banimento:** <data>"
+    },
+    
+    "PERMISSION": {
+        "AUTHOR": "{e:erro} <name>, você não possui permissões suficientes! para a execução desse comando é preciso das seguintes **permissões**\n> - **`(<PERMISSION>)`**",
+
+        "CLIENT": "{e:erro} <name>, para eu poder concluir a execução desse comando eu preciso das seguintes **permissões**\n> ⎯ **`(<PERMISSION>)`**"
+    },
+
+    "TEMPO": "> {e:time} <name> **eita bixo**, espere um pouco para usar outro comando: **<t:<cooldown>:R>**"
+}
